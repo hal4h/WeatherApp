@@ -1,0 +1,41 @@
+{
+    "coord":{"lon":-97.147,"lat":49.8844
+        
+    },
+    "weather":[
+        {
+            "id":601,
+            "main":"Snow",
+            "description":"snow",
+            "icon":"13n"
+            
+        }
+    ],
+    "base":"stations",
+    "main":{"temp":-3.04,
+        "feels_like":-10.04,
+        "temp_min":-3.88,
+        "temp_max":-2.77,
+        "pressure":997,
+        "humidity":94
+        
+    },"visibility":1207,
+    "wind":{
+        "speed":10.29,
+        "deg":30,
+        "gust":12.86
+        
+    },
+    "snow":{"1h":0.51},"clouds":{"all":100},"dt":1649933360,"sys":{"type":1,
+        "id":738,
+        "country":"CA",
+        "sunrise":1649936250,
+        "sunset":1649985583
+        
+    },
+    "timezone":-18000,
+    "id":6183235,
+    "name":"Winnipeg",
+    "cod":200
+    
+}
